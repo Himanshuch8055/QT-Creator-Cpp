@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/file">
+        <file>images/about-png-2.png</file>
+        <file>images/bold-button.png</file>
+        <file>images/chromatic.png</file>
+        <file>images/close.png</file>
+        <file>images/copy.png</file>
+        <file>images/diskette.png</file>
+        <file>images/folder.png</file>
+        <file>images/font.png</file>
+        <file>images/new-document.png</file>
+        <file>images/paste.png</file>
+        <file>images/question.png</file>
+        <file>images/redo-arrow.png</file>
+        <file>images/scissors.png</file>
+        <file>images/searching-magnifying-glass.png</file>
+        <file>images/undo-arrow.png</file>
+        <file>images/save-as.png</file>
+        <file>images/logout.png</file>
+        <file>images/exchange.png</file>
+        <file>images/select-all.png</file>
+        <file>images/megaphone.png</file>
+        <file>images/underlined-text.png</file>
+        <file>images/italic.png</file>
+    </qresource>
+</RCC>
